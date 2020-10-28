@@ -1,4 +1,4 @@
-# E4_offilne
+# E4_offline
 This package is for E4 offline stress level estimation, based on a training of WESAD data.
 
 You need to put main.py, utils.py, GN_E4_stress.joblib and data folder under the same directory.
